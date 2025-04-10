@@ -1,7 +1,6 @@
 # Data-Cleaning-Preprocessing
 url='https://colab.research.google.com/drive/1zSMxhrL-JuUG-2f-CfL3-D0QndGgpD-t?usp=sharing'
 
-df=pd.read_csv(url)
 Create a short notes file content
 
 # short_notes
